@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/ff506778-7000-4a3b-8376-994a8f32058b.png" tvg-url="https://www.atv.com.tr/" tvg-id="ATV.tr",ATV
@@ -757,10 +756,6 @@ https://streams.uzunmuhalefet.com/stream/e3ba9429-f25c-4512-a742-4ae7785df424.m3
 #EXTINF:-1 group-title="7/24 Dizi" tvg-logo="https://assets.uzunmuhalefet.com/logos/a4cfb3cb-de93-4afb-a258-f52d2ee1d1f5.png" tvg-url="" tvg-id="",Kardeşlerim
 https://streams.uzunmuhalefet.com/stream/7b73d3ce-fd52-4fc6-b18d-8a18dc54d0f8.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
@@ -902,15 +897,3 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 
 #EXTINF:-1 tvg-name="NumberOne Dance" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneDance" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1-768x768.png" group-title="Müzik",NumberOne Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TRT SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="TURKEY",TR:TRT SPOR HD
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:A SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="TURKEY",TR:A SPOR HD
-https://hw1.jemtv.com/app/ASporHD/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:HT SPOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/htspor.png" group-title="TURKEY",TR:HT SPOR HD
-https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:FB TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/fbtv.png" group-title="TURKEY",TR:FB TV HD
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:GS TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/gstv.png" group-title="TURKEY",TR:GS TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
