@@ -7,6 +7,28 @@ https://shift03.isp.bg/BNT2_HD/index.m3u8
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:20,BNT4
 https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1,101_BNT 1  HD
+http://87.120.179.187:8000/play/a007
+#EXTINF:-1,102_bTV HD
+http://87.120.179.187:8000/play/a00a
+#EXTINF:-1,103_Nova HD
+http://87.120.179.187:8000/play/a00c
+#EXTINF:-1,104_Diema HD
+http://87.120.179.187:8000/play/a00h
+#EXTINF:-1,105_Kino Nova HD
+http://87.120.179.187:8000/play/a00d
+#EXTINF:-1,106_Diema Family
+http://87.120.179.187:8000/play/a00i
+#EXTINF:-1,107_bTV Action HD
+http://87.120.179.187:8000/play/a00v
+#EXTINF:-1,108_bTV Cinema HD
+http://87.120.179.187:8000/play/a00s
+#EXTINF:-1,121_bTV Comedy
+http://87.120.179.187:8000/play/a00t
+#EXTINF:-1,Balkanika HD
+http://87.120.179.187:8000/play/a04s
+#EXTINF:-1,Planeta HD
+http://87.120.179.187:8000/play/a04u
 #EXTINF:60,TV1
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="ULUSAL",STAR TV
