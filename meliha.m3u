@@ -37,7 +37,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/star1.m3u8
-#EXTINF:-1 tvg-id="FOX.tr" tvg-name="NOW TV HD+" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/now-tv.png" group-title="ᴛʀ • ULUSAL",↺NOW TV HD+
+#EXTINF:-1 tvg-id="FOX.tr" tvg-name="NOW TV HD+" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/now-tv.png" group-title="ᴛʀ • ULUSAL",NOW TV HD+
 http://eempiree.com:8080/6354e84fce745abb/8046a68755025c1f/94075
 #EXTINF:-1 tvg-id="FOX.tr" tvg-name="NOW TV HD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/now-tv.png" group-title="ᴛʀ • ULUSAL",NOW TV HD
 http://eempiree.com:8080/6354e84fce745abb/8046a68755025c1f/94076
