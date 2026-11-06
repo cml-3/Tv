@@ -31,6 +31,34 @@ http://87.120.179.187:8000/play/a04s
 http://87.120.179.187:8000/play/a04u
 #EXTINF:60,TV1
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnt.png" group-title="bg" ,BNT 1
+https://79.76.50.223/live/iOS/SiNETECH/37979.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnt2.png" group-title="bg" ,BNT 2
+https://79.76.50.223/live/iOS/SiNETECH/37980.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/bnthd-1.png" group-title="bg" ,BNT 3
+https://79.76.50.223/live/iOS/SiNETECH/37981.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/nova-1.png" group-title="bg" ,Nova Tv
+https://79.76.50.223/live/iOS/SiNETECH/38017.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btv-8.png" group-title="bg" ,BTV
+https://79.76.50.223/live/iOS/SiNETECH/37982.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btvcinema.png" group-title="bg" ,BTV Cinema
+https://79.76.50.223/live/iOS/SiNETECH/37983.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/btvcomedy.png" group-title="bg" ,BTV Comedy
+https://79.76.50.223/live/iOS/SiNETECH/37984.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/balkanika.png" group-title="bg" ,Balkanika Tv
+https://79.76.50.223/live/iOS/SiNETECH/37985.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/fantv.png" group-title="bg" ,Fen Tv
+https://79.76.50.223/live/iOS/SiNETECH/37997.ts
+#EXTINF:-1 tvg-logo="https://www.bg-gledai.video/wp-content/uploads/planetahd.png" group-title="bg" ,Planeta HD
+https://79.76.50.223/live/iOS/SiNETECH/38019.ts
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/83.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",STAR
+https://79.76.50.223/live/iOS/SiNETECH/35183.ts
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1124.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",STAR
+https://79.76.50.223/live/iOS/SiNETECH/35184.ts
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://www.giniko.com/logos/190x110/1421.jpg" group-title="Yerel / 🔴 GiNiKO" group-logo="https://79.76.50.223/Yerel.png",STAR
+https://79.76.50.223/live/iOS/SiNETECH/35185.ts
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://play-lh.googleusercontent.com/CmRU5yM2F4FOujVYbR0fdZD7Sp2UwDIilpku-9x99p3Nog_bbGomJXvrHA-JMgl-1ZgM" group-title="Yerel / 🟢 GLTüRK" group-logo="https://79.76.50.223/Yerel.png",STAR
+https://79.76.50.223/live/iOS/SiNETECH/35213.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="ULUSAL",STAR TV
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
@@ -85,6 +113,14 @@ https://b.livev.xyz/aytv/tracks-v1a1/mono.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV
 https://turkuaz.tecostream.xyz/atv?m3u8
+#EXTINF:-1 tvg-logo="",ATV EUROPA (1)
+http://sultanios.alwaysdata.net/vavo.php?ID=90085139
+#EXTINF:-1 tvg-logo="",ATV FHD (1)
+http://sultanios.alwaysdata.net/vavo.php?ID=2861010641
+#EXTINF:-1 tvg-logo="",ATV HD (1)
+http://sultanios.alwaysdata.net/vavo.php?ID=1332310706
+#EXTINF:-1 tvg-logo="",ATV SD (1)
+http://sultanios.alwaysdata.net/vavo.php?ID=645431530
 #EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="ULUSAL",KANAL 7
