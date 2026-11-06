@@ -83,14 +83,12 @@ http://superiptv21.com/live/ahmetuyanik/UsBC23nCmz/ae1ebbbd-b523-4ea0-9a17-4abfd
 https://79.76.50.223/live/iOS/SiNETECH/35174.ts
 #EXTINF:-1,NOW TV(6)
 https://79.76.50.223/live/iOS/SiNETECH/35175.ts
-#EXTINF:-1 tvg-logo="",NOW TV SD (1)
+#EXTINF:-1 tvg-logo="",NOW TV SD (7)
 http://sultanios.alwaysdata.net/vavo.php?ID=1619828782
-#EXTINF:-1 tvg-logo="",NOW (2)
+#EXTINF:-1 tvg-logo="",NOW (8)
 http://sultanios.alwaysdata.net/vavo.php?ID=2578197593
-#EXTINF:-1 tvg-logo="",NOW TV FHD (3)
+#EXTINF:-1 tvg-logo="",NOW TV FHD (9)
 http://sultanios.alwaysdata.net/vavo.php?ID=919108696
-#EXTINF:-1 tvg-logo="",NOW TV HD (4)
-http://sultanios.alwaysdata.net/vavo.php?ID=161305206
 #EXTINF:-1 Yedek="https://x.canlitvapp.com/kanal8/index.m3u8" Yedek2="https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8" Yedek3="http://89.187.191.41/TV8-HD-TR/video.m3u8" Yedek4="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1633" Yedek5="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8" Yedek6="https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
