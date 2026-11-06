@@ -37,16 +37,40 @@ https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png",STAR
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/star1.m3u8
-#EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV(site)
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1793768073&st=LLJrNZsQanvGSNgQJnnuyw
-#EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV (480)
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 #EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=jrgwgo_UtM506yUlZ4wXUw&e=1788110370
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=jrgwgo_UtM506yUlZ4wXUw&e=1788110370
+#EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV (480)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+#EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV (720)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1,NOW TV(1)
+http://superiptv21.com/live/ilkersahin2/odzky5pd1/3e46da80-1a93-42cb-9828-66e3639f68b0.m3u
+#EXTINF:-1,NOW TV(2)
+http://superiptv21.com/live/ilkersahin2/odzky5pd1/ae1ebbbd-b523-4ea0-9a17-4abfddb1203d.m3u
+#EXTINF:-1,NOW TV(3)
+http://superiptv21.com/live/ahmetuyanik/UsBC23nCmz/3e46da80-1a93-42cb-9828-66e3639f68b0.m3u
+#EXTINF:-1,NOW TV(4)
+http://superiptv21.com/live/ahmetuyanik/UsBC23nCmz/ae1ebbbd-b523-4ea0-9a17-4abfddb1203d.m3u
+#EXTINF:-1,NOW TV(5)
+https://79.76.50.223/live/iOS/SiNETECH/35174.ts
+#EXTINF:-1,NOW TV(6)
+https://79.76.50.223/live/iOS/SiNETECH/35175.ts
+#EXTINF:-1 tvg-logo="",NOW TV SD (1)
+http://sultanios.alwaysdata.net/vavo.php?ID=1619828782
+#EXTINF:-1 tvg-logo="",NOW (2)
+http://sultanios.alwaysdata.net/vavo.php?ID=2578197593
+#EXTINF:-1 tvg-logo="",NOW (3)
+http://sultanios.alwaysdata.net/vavo.php?ID=3105184056
+#EXTINF:-1 tvg-logo="",NOW TV FHD (4)
+http://sultanios.alwaysdata.net/vavo.php?ID=919108696
+#EXTINF:-1 tvg-logo="",NOW TV HD (5)
+http://sultanios.alwaysdata.net/vavo.php?ID=161305206
+#EXTINF:-1 tvg-logo="",NOW TV HD (H265) (6)
+http://sultanios.alwaysdata.net/vavo.php?ID=998968304
+#EXTINF:-1 tvg-logo="",NOW TV HEVC (7)
+http://sultanios.alwaysdata.net/vavo.php?ID=1170183149
+#EXTINF:-1 tvg-logo="",NOW TV RAW (8)
+http://sultanios.alwaysdata.net/vavo.php?ID=2769713183
 #EXTINF:-1 Yedek="https://x.canlitvapp.com/kanal8/index.m3u8" Yedek2="https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8" Yedek3="http://89.187.191.41/TV8-HD-TR/video.m3u8" Yedek4="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1633" Yedek5="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8" Yedek6="https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8
